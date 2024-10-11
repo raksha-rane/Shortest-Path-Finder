@@ -72,17 +72,6 @@ The progress is visualized on the grid, with different colors indicating explore
 - Watch the visual representation of Dijkstra’s algorithm in real-time as it finds the shortest path.
 - Reset the grid and experiment with different configurations.
 
-## Screenshots
-
-### Initial Grid Layout
-![Initial Grid Layout](./screenshots/initial_grid.png)
-
-### Pathfinding in Progress
-![Pathfinding in Progress](./screenshots/pathfinding_progress.png)
-
-### Final Shortest Path
-![Final Shortest Path](./screenshots/final_shortest_path.png)
-
 ## Future Enhancements
 
 - Support for other pathfinding algorithms like A* and BFS.
